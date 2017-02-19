@@ -1,6 +1,6 @@
 var path = require('path')
 let express = require('express')
-let port = process.env.PORT || 8080
+let port = 80
 let app = express()
 let router = express.Router()
 
